@@ -1,4 +1,4 @@
-# code-challenge
+# my-code-roadmap
 with this, i will try to become better at programing by making programs (duh)
 here are the projects i will make
 
