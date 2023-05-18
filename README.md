@@ -4,14 +4,17 @@ here are the projects i will make
 
 # 1 - number tools
 this will be a collection of scripts that will do things relating to numbers, such as converting temperatures, coverting cyphers such as binary, and calculating the bifurcartion rate of league of legends characters (not really)
+
 planned scripts: general calculator (temperature, area, mass, distance), print factorial of 100, print N numbers of PI, general decoder (binary, morse, hex and more, but some may not be viable for being more complex such as cesar and vigenere)
 
 # 2 - word tools
 same thing as above, but with words. i might do this after the next one as words are complicated
+
 planned scripts: fizzbuzz, count stuff (vowels, letters, syllables, words, etc), check if palyndrome, markov chain sentence generator, chatbot (stupid), password generator (i might add more as there is alot i can do with words
 
 # 3 - basic games
 a bunch of basic games, no gui yet, sorry. at this point i just want to make sure i know how to deal with data and stuff
+
 planned games: heads or tails, higher or lower, rock paper scissors, tic tac toe, hangman, EXTRA: naval battle (if i feel like im good enough)
 
 # 4 - text adventure game    
